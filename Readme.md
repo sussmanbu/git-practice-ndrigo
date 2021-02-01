@@ -3,8 +3,6 @@ README
 Nadine Drigo
 1/29/2021
 
-something
-
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
